@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello!
+
+  My name is Eric (he/him) and I'm currently working on trying to find a job! While I have learned MERN, Python and C#,I am currently practicing MERN.
+I'd love to collaborate on anything that is novice friendly and I'd always love help in the form of tricks and tips when it comes to programming in general. 
+
+You can reach me at edscheib78@gmail.com and www.linkedin.com/in/eric-scheib 
 
 <!--
 **EDScheib78/EDScheib78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
