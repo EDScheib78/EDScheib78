@@ -1,6 +1,6 @@
 ### Hello!
 
-  My name is Eric (he/him) and I'm currently working on trying to find a job! While I was taught to be a full stack developer in MERN, Python and C#, I am currently practicing MERN.
+  My name is Eric (he/him) and I'm currently working on trying to find a job! I was taught at The Coding Dojo to be a full stack developer in MERN, Python and C#.
 I'd love to collaborate on anything that is novice friendly and I'd always love help in the form of tricks and tips when it comes to programming in general. 
 
 You can reach me at edscheib78@gmail.com and www.linkedin.com/in/eric-scheib 
